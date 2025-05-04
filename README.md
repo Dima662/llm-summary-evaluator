@@ -1,6 +1,6 @@
 # LLM Summary Evaluator
 
-A solo project for the Wisedocs Fall 2025 ML internship. It uses a pre-trained language model to generate summaries and evaluates them using ROUGE metrics.
+A solo project that uses a pre-trained language model to generate summaries and evaluates them using ROUGE metrics.
 
 ## 🔧 Features
 - LLM-based summarization (BART model)
